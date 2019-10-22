@@ -1,0 +1,64 @@
+body {
+  background-image: url("https://images.pexels.com/photos/890577/pexels-photo-890577.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+  font-family: arial;
+  color:white;
+}
+
+#cookie-clicker {
+  background-color:#6b2c23;
+  font-size: 100px;
+  border-radius: 4px;
+  color: white;
+  font-weight: bolder;
+  border: 0px;
+  padding: 10px 50px;
+}
+
+#buy-click-power {
+  background-color:#6b2c23;
+  border-radius: 4px;
+  color: white;
+  font-weight: bolder;
+  border: 0px;
+  padding: 5px 5px;
+}
+
+#cookie-counter {
+  font-weight: bolder;
+  font-size: 100px;
+}
+#buy-grandma {
+  background-color:#6b2c23;
+  border-radius: 4px;
+  color: white;
+  font-weight: bolder;
+  border: 0px;
+  padding: 5px 5px;
+}
+
+#buy-grandpa {
+  background-color:#6b2c23;
+  border-radius: 4px;
+  color: white;
+  font-weight: bolder;
+  border: 0px;
+  padding: 5px 5px;
+}
+
+#buy-facility {
+  background-color:#6b2c23;
+  border-radius: 4px;
+  color: white;
+  font-weight: bolder;
+  border: 0px;
+  padding: 5px 5px;
+}
+
+p {
+  font-weight: bold;
+}
+
+#icon {
+  height: 30px;
+  width: 30px;
+}
